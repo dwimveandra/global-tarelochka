@@ -1,0 +1,7 @@
+1.TED.com features interactive transcripts for most videos in our library. To access a transcript, click the Transcript button underneath the video player.
+
+2.If the talk has been translated into a certain language, you'll be able to view the transcript in that language by clicking the drop-down menu and selecting it from the list.
+
+3.These transcripts are interactive: the words are highlighted as the speaker says them, and if you click on the text, the video will skip directly to that sentence.
+
+4.If you'd like to print the transcript, follow these steps:
