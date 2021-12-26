@@ -5,4 +5,3 @@
 3.These transcripts are interactive: the words are highlighted as the speaker says them, and if you click on the text, the video will skip directly to that sentence.
 
 4.If you'd like to print the transcript, follow these steps:
-Highlight the text by dragging the cursor over it
