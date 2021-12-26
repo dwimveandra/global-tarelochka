@@ -6,4 +6,7 @@
 
 4.If you'd like to print the transcript, follow these steps:
 Highlight the text by dragging the cursor over it
-Copy the text to your clipboard
+Copy the text to your clipboard 
+Paste the text to a word or text document
+Print the document 
+You can access interactive transcripts on the mobile version of TED.com in the same way as above. Transcripts are not currently available in the TED app for iOS or Android, though it's a feature our developers will be glad to consider.
