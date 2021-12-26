@@ -6,6 +6,4 @@
 
 4.If you'd like to print the transcript, follow these steps:
 Highlight the text by dragging the cursor over it
-Copy the text to your clipboard 
-Paste the text to a word or text document
-Print the document 
+Copy the text to your clipboard
